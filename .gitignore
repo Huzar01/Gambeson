@@ -1,2 +1,2 @@
 terraform_proxmox/cred*
-packer_proxmox/cred*
+packer_proxmox/200-ubuntu-server/cred*
